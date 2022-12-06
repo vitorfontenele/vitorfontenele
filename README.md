@@ -17,6 +17,16 @@
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+## Github Estatísticas
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfontenele&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfontenele&show_icons=true&theme=dracula&line_height=27" alt="Vitor Fontenele github stats"/>
+</a>
+
 <br>
 
 <i>"A mente que se abre a uma nova ideia jamais retornará ao seu tamanho original" (Albert Einstein)</i>
