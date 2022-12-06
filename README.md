@@ -27,8 +27,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorfontenele&show_icons=true&theme=dracula&line_height=27" alt="Vitor Fontenele github stats"/>
 </a>
 
-<br>
-
 <i>"A mente que se abre a uma nova ideia jamais retornará ao seu tamanho original" (Albert Einstein)</i>
 
 
